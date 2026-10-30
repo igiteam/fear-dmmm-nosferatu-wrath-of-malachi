@@ -29,6 +29,14 @@ The LithTech Jupiter EX, the engine Monolith Productions used for F.E.A.R. (2005
 
 [Benox50 F.E.A.R Tutorials](https://www.youtube.com/playlist?list=PLE_yJhRzcviuuQvv5pzDxoJCdk83uq5Bd)
 
+[https://github.com/Wemino/EchoPatch/](https://github.com/Wemino/EchoPatch/)
+
+[https://community.pcgamingwiki.com/files/file/2600-fear-extraction-point-eax-fix/](https://community.pcgamingwiki.com/files/file/2600-fear-extraction-point-eax-fix/)
+
+[https://www.moddb.com/games/fear/downloads/3dsmax-7-model-import-plugin](https://www.moddb.com/games/fear/downloads/3dsmax-7-model-import-plugin)
+
+[https://www.moddb.com/mods/fear-xp-rivarez-mod/downloads/fear-hd-textures-v202](https://www.moddb.com/mods/fear-xp-rivarez-mod/downloads/fear-hd-textures-v202)
+
 [https://www.moddb.com/games/fear/downloads/lithtech-jupiter-ex-fx-decompiler](https://www.moddb.com/games/fear/downloads/lithtech-jupiter-ex-fx-decompiler)
 
 [https://www.moddb.com/games/fear/downloads/fear-playerdoll](https://www.moddb.com/games/fear/downloads/fear-playerdoll)
@@ -51,9 +59,17 @@ The LithTech Jupiter EX, the engine Monolith Productions used for F.E.A.R. (2005
 
 [https://www.moddb.com/mods/dark-messiah-co-op](https://www.moddb.com/mods/dark-messiah-co-op)
 
+[https://developer.valvesoftware.com/wiki/SDK_Docs](https://developer.valvesoftware.com/wiki/SDK_Docs)
+
+[https://developer.valvesoftware.com/wiki/Category:Tutorials](https://developer.valvesoftware.com/wiki/Category:Tutorials)
+
+[https://developer.valvesoftware.com/wiki/Category:Official_Source_Tools](https://developer.valvesoftware.com/wiki/Category:Official_Source_Tools)
+
 [Source SDK Basic Tutorials](https://www.youtube.com/playlist?list=PLPMNTlw4d_XmlZUE0ViwuX-mU0yHiy5no)
 
 [Valve Source Code Tutorials Source SDK](https://www.youtube.com/watch?v=9MlmLvgkMiY&list=PL8tDEPB6h7Lk0YtRtt4k1h_Thgj1ZA2dX)
+
+[Source SDK Tutorials](https://www.youtube.com/playlist?list=PL75652DF1118D02E8)
 
 [Hammer Source SDK Tutorials](https://www.youtube.com/watch?v=HO1-RDcoe5U&list=PLTK618TZXnmtwpHKG45BnpcgsP_Bom5B_)
 
