@@ -25,6 +25,8 @@ The LithTech Jupiter EX, the engine Monolith Productions used for F.E.A.R. (2005
 ## F.E.A.R SDK
 [https://archive.org/details/fear-pc](https://archive.org/details/fear-pc)
 
+[LithTech-Jupiter-FX Tutorials](https://www.youtube.com/playlist?list=PLb8oNKiUbnjFO0_sNfW4A80k9UWjBhVRo)
+
 [https://github.com/jsj2008/lithtech](https://github.com/jsj2008/lithtech)
 
 [https://www.moddb.com/games/fear/downloads/fear-public-tools-v2](https://www.moddb.com/games/fear/downloads/fear-public-tools-v2)
