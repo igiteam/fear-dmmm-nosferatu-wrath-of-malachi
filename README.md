@@ -26,4 +26,4 @@ The LithTech Jupiter EX, the engine Monolith Productions used for F.E.A.R. (2005
 
 ## Source SDK
 [https://archive.org/details/dark-messiah-of-might-and-magic_202505](https://archive.org/details/dark-messiah-of-might-and-magic_202505)
-[![Dark Messiah of Might and Magic](https://ia800703.us.archive.org/20/items/dark-messiah-of-might-and-magic_202505/Dark%20Messiah%20of%20Might%20and%20Magic_itemimage.png)](https://archive.org/details/dark-messiah-of-might-and-magic_202505)
+[![Dark Messiah of Might and Magic](https://ia800703.us.archive.org/20/items/dark-messiah-of-might-and-magic_202505/Dark%20Messiah%20of%20Might%20and%20Magic_itemimage.png)](https://ia800703.us.archive.org/20/items/dark-messiah-of-might-and-magic_202505/Dark%20Messiah%20of%20Might%20and%20Magic_itemimage.png)
