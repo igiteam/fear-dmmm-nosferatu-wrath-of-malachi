@@ -57,6 +57,12 @@ The LithTech Jupiter EX, the engine Monolith Productions used for F.E.A.R. (2005
 
 [https://www.moddb.com/mods/dark-messiah-advanced-sdk](https://www.moddb.com/mods/dark-messiah-advanced-sdk)
 
+[https://github.com/KingDavidW/DarkMessiah-Coop-Mod-Files](https://github.com/KingDavidW/DarkMessiah-Coop-Mod-Files)
+
+[https://github.com/KingDavidW/DarkMessiah-AdvancedSDK-Mod-Files](https://github.com/KingDavidW/DarkMessiah-AdvancedSDK-Mod-Files)
+
+[https://github.com/KingDavidW/DarkMessiah-ModLauncher-Files](https://github.com/KingDavidW/DarkMessiah-ModLauncher-Files)
+
 [https://www.moddb.com/mods/dark-messiah-co-op](https://www.moddb.com/mods/dark-messiah-co-op)
 
 [https://developer.valvesoftware.com/wiki/SDK_Docs](https://developer.valvesoftware.com/wiki/SDK_Docs)
