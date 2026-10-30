@@ -17,6 +17,9 @@ The LithTech Jupiter EX, the engine Monolith Productions used for F.E.A.R. (2005
 ## Wiimote+Nunchuk, MX Mouse Keys, Xbox360 Controller
 [https://github.com/igiteam/logitec_mx_mouse_3_macos](https://github.com/igiteam/logitec_mx_mouse_3_macos)
 
+## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
+[WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
+
 ## F.E.A.R SDK
 [https://archive.org/details/fear-pc](https://archive.org/details/fear-pc)
 
