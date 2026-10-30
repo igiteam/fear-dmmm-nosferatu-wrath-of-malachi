@@ -17,13 +17,32 @@ The LithTech Jupiter EX, the engine Monolith Productions used for F.E.A.R. (2005
 ## F.E.A.R SDK
 [https://archive.org/details/fear-pc](https://archive.org/details/fear-pc)
 [https://github.com/jsj2008/lithtech](https://github.com/jsj2008/lithtech)
+[https://www.moddb.com/games/fear/downloads/fear-public-tools-v2](https://www.moddb.com/games/fear/downloads/fear-public-tools-v2)
+[https://fear-combat.nl/FEAR-Public-Tools.html](https://fear-combat.nl/FEAR-Public-Tools.html)
 [https://archive.org/download/fear-source-code](https://archive.org/download/fear-source-code)
 [https://www.moddb.com/mods/fear-coop](https://www.moddb.com/mods/fear-coop)
+[Benox50 F.E.A.R Tutorials](https://www.youtube.com/playlist?list=PLE_yJhRzcviuuQvv5pzDxoJCdk83uq5Bd)
+[https://www.moddb.com/games/fear/downloads/lithtech-jupiter-ex-fx-decompiler](https://www.moddb.com/games/fear/downloads/lithtech-jupiter-ex-fx-decompiler)
+[https://www.moddb.com/games/fear/downloads/fear-playerdoll](https://www.moddb.com/games/fear/downloads/fear-playerdoll)
 [https://www.moddb.com/games/fear/downloads/turret-tutorial-sample-file](https://www.moddb.com/games/fear/downloads/turret-tutorial-sample-file)
 [https://www.moddb.com/games/fear/downloads/water-sample-level](https://www.moddb.com/games/fear/downloads/water-sample-level)
 [https://www.moddb.com/games/fear/downloads/helicopter-start-level](https://www.moddb.com/games/fear/downloads/helicopter-start-level)
+[https://www.moddb.com/games/fear/tutorials](https://www.moddb.com/games/fear/tutorials)
 [![F.E.A.R.](https://raw.githubusercontent.com/igiteam/fear-dmmm-nosferatu-wrath-of-malachi/refs/heads/main/FEAR.png)](https://archive.org/details/fear-pc)
 
-## Source SDK
+## Dmmm Source SDK
 [https://archive.org/details/dark-messiah-of-might-and-magic_202505](https://archive.org/details/dark-messiah-of-might-and-magic_202505)
+[https://www.moddb.com/mods/dark-messiah-advanced-sdk](https://www.moddb.com/mods/dark-messiah-advanced-sdk)
+[https://www.moddb.com/mods/dark-messiah-co-op](https://www.moddb.com/mods/dark-messiah-co-op)
+[Source SDK Basic Tutorials](https://www.youtube.com/playlist?list=PLPMNTlw4d_XmlZUE0ViwuX-mU0yHiy5no)
+[Valve Source Code Tutorials Source SDK](https://www.youtube.com/watch?v=9MlmLvgkMiY&list=PL8tDEPB6h7Lk0YtRtt4k1h_Thgj1ZA2dX)
+[Hammer Source SDK Tutorials](https://www.youtube.com/watch?v=HO1-RDcoe5U&list=PLTK618TZXnmtwpHKG45BnpcgsP_Bom5B_)
+[https://www.moddb.com/mods/dark-messiah-restoration-mod](https://www.moddb.com/mods/dark-messiah-restoration-mod)
+[https://www.youtube.com/playlist?list=PL-ip7TlL26ybUhHiwtOxdlOQUpGLFXCV7](https://www.youtube.com/playlist?list=PL-ip7TlL26ybUhHiwtOxdlOQUpGLFXCV7)
+[https://discord.gg/RXKpr3Wwdd](https://discord.gg/RXKpr3Wwdd)
 [![Dark Messiah of Might and Magic](https://raw.githubusercontent.com/igiteam/fear-dmmm-nosferatu-wrath-of-malachi/refs/heads/main/DarkMessiahOfMightAndMagic.png)](https://archive.org/details/dark-messiah-of-might-and-magic_202505)
+
+## Nosferatu Wrath Of Malachi
+[https://archive.org/details/nosferatu-the-wrath-of-malachi](https://archive.org/details/nosferatu-the-wrath-of-malachi)
+[![Nosferatu Wrath Of Malachi](https://raw.githubusercontent.com/igiteam/fear-dmmm-nosferatu-wrath-of-malachi/refs/heads/main/NosferatuTheWrathOfMalachi.png)](https://archive.org/details/nosferatu-the-wrath-of-malachi)
+
