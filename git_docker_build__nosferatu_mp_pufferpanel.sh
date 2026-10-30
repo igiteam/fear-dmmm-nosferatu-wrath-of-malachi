@@ -2,9 +2,9 @@
 
 # Configuration
 LOGO_URL="https://cdn.gitgpt.chat/rtx/images/mumble-voip-logo.png"
-REPO_URL="https://github.com/igiteam/openofp"
+REPO_URL="https://github.com/igiteam/nosferatuWrathOfMalachi"
 YOUR_GITHUB_USERNAME="igiteam"
-NEW_REPO_NAME="openofp"
+NEW_REPO_NAME="nosferatuWrathOfMalachi"
 
 # Colors
 RED='\033[0;31m'
@@ -13,7 +13,7 @@ YELLOW='\033[1;33m'
 BLUE='\033[0;34m'
 NC='\033[0m'
 
-echo -e "${GREEN}🚀 OpenOFP Server Docker Setup${NC}"
+echo -e "${GREEN}🚀 NosferatuWrathOfMalachi Server Docker Setup${NC}"
 echo "================================================"
 
 # Check gh CLI
@@ -46,10 +46,10 @@ if gh repo view "$YOUR_GITHUB_USERNAME/$NEW_REPO_NAME" &> /dev/null; then
 fi
 
 # Create new repository
-gh repo create "$NEW_REPO_NAME" --public --description "OpenOFP - Operation Flashpoint Dedicated Server with Docker"
+gh repo create "$NEW_REPO_NAME" --public --description "NosferatuWrathOfMalachi - Operation Flashpoint Dedicated Server with Docker"
 
 # Clone
-echo -e "\n${GREEN}📥 Cloning OpenOFP repository...${NC}"
+echo -e "\n${GREEN}📥 Cloning NosferatuWrathOfMalachi repository...${NC}"
 git clone "$REPO_URL" "$NEW_REPO_NAME"
 cd "$NEW_REPO_NAME"
 
@@ -150,9 +150,9 @@ EOF
 echo -e "${GREEN}📝 Creating ofp_mp_server_pufferpanel.json...${NC}"
 cat > ofp_mp_server_pufferpanel.json << EOF
 {
-  "name": "OpenOFP Multiplayer Server",
+  "name": "NosferatuWrathOfMalachi Multiplayer Server",
   "type": "docker",
-  "image": "ghcr.io/$YOUR_GITHUB_USERNAME/openofp/ofp-server:latest",
+  "image": "ghcr.io/$YOUR_GITHUB_USERNAME/NosferatuWrathOfMalachi/ofp-server:latest",
   "description": "Operation Flashpoint dedicated server for PufferPanel",
   "ports": {
     "game": {
@@ -169,7 +169,7 @@ cat > ofp_mp_server_pufferpanel.json << EOF
   "environment": [
     {
       "key": "SERVER_NAME",
-      "value": "OpenOFP Server",
+      "value": "NosferatuWrathOfMalachi Server",
       "description": "Server display name"
     },
     {
@@ -206,13 +206,13 @@ EOF
 # ============================================
 echo -e "${GREEN}📝 Creating default server.cfg...${NC}"
 cat > server.cfg << 'EOF'
-// OpenOFP Server Configuration
+// NosferatuWrathOfMalachi Server Configuration
 
 // Server Identity
-serverName = "OpenOFP Server";
+serverName = "NosferatuWrathOfMalachi Server";
 password = "";
 passwordAdmin = "admin123";
-reportingIP = "master.openofp.com";
+reportingIP = "master.NosferatuWrathOfMalachi.com";
 
 // Game Settings
 maxPlayers = 32;
