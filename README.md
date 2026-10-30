@@ -13,3 +13,17 @@ The LithTech Jupiter EX, the engine Monolith Productions used for F.E.A.R. (2005
 
 ## Github Tree Api Direct JSON
 [https://api.github.com/repos/igiteam/fear-dmmm-nosferatu-wrath-of-malachi/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/fear-dmmm-nosferatu-wrath-of-malachi/git/trees/main?recursive=1)
+
+## F.E.A.R SDK
+[https://archive.org/details/fear-pc](https://archive.org/details/fear-pc)
+[https://github.com/jsj2008/lithtech](https://github.com/jsj2008/lithtech)
+[https://archive.org/download/fear-source-code](https://archive.org/download/fear-source-code)
+[https://www.moddb.com/mods/fear-coop](https://www.moddb.com/mods/fear-coop)
+[https://www.moddb.com/games/fear/downloads/turret-tutorial-sample-file](https://www.moddb.com/games/fear/downloads/turret-tutorial-sample-file)
+[https://www.moddb.com/games/fear/downloads/water-sample-level](https://www.moddb.com/games/fear/downloads/water-sample-level)
+[https://www.moddb.com/games/fear/downloads/helicopter-start-level](https://www.moddb.com/games/fear/downloads/helicopter-start-level)
+[![F.E.A.R]](https://ia600605.us.archive.org/15/items/fear-pc/thumb.jpg)
+
+## Source SDK
+[https://archive.org/details/dark-messiah-of-might-and-magic_202505](https://archive.org/details/dark-messiah-of-might-and-magic_202505)
+[![Dark Messiah of Might and Magic]](https://ia800703.us.archive.org/20/items/dark-messiah-of-might-and-magic_202505/Dark%20Messiah%20of%20Might%20and%20Magic_itemimage.png)
