@@ -81,8 +81,6 @@ The LithTech Jupiter EX, the engine Monolith Productions used for F.E.A.R. (2005
 
 [https://developer.valvesoftware.com/wiki/Category:Official_Source_Tools](https://developer.valvesoftware.com/wiki/Category:Official_Source_Tools)
 
-[Dmmm Hammer++ Tutorials](https://www.youtube.com/playlist?list=PLb8oNKiUbnjFtaXhabLk389XzQkUjxgaB)
-
 [Source SDK Basic Tutorials](https://www.youtube.com/playlist?list=PLPMNTlw4d_XmlZUE0ViwuX-mU0yHiy5no)
 
 [Valve Source Code Tutorials Source SDK](https://www.youtube.com/watch?v=9MlmLvgkMiY&list=PL8tDEPB6h7Lk0YtRtt4k1h_Thgj1ZA2dX)
@@ -96,6 +94,13 @@ The LithTech Jupiter EX, the engine Monolith Productions used for F.E.A.R. (2005
 [wiltOS Technologies Dmmm Coop Tutorials](https://www.youtube.com/playlist?list=PL-ip7TlL26ybUhHiwtOxdlOQUpGLFXCV7)
 
 [https://discord.gg/RXKpr3Wwdd](https://discord.gg/RXKpr3Wwdd)
+
+[Dmmm Hammer++ Tutorials](https://www.youtube.com/playlist?list=PLb8oNKiUbnjFtaXhabLk389XzQkUjxgaB)
+
+
+[![Dark Messiah of Might and Magic](https://raw.githubusercontent.com/igiteam/fear-dmmm-nosferatu-wrath-of-malachi/refs/heads/main/dark-messiah-sword-fight.png)](https://raw.githubusercontent.com/igiteam/fear-dmmm-nosferatu-wrath-of-malachi/refs/heads/main/dark-messiah-sword-fight.png)
+
+[![Dark Messiah of Might and Magic](https://raw.githubusercontent.com/igiteam/fear-dmmm-nosferatu-wrath-of-malachi/refs/heads/main/dmmm-hammer-source-sdk.png)](https://raw.githubusercontent.com/igiteam/fear-dmmm-nosferatu-wrath-of-malachi/refs/heads/main/dmmm-hammer-source-sdk.png)
 
 [![Dark Messiah of Might and Magic](https://raw.githubusercontent.com/igiteam/fear-dmmm-nosferatu-wrath-of-malachi/refs/heads/main/DarkMessiahOfMightAndMagic.png)](https://archive.org/details/dark-messiah-of-might-and-magic_202505)
 
