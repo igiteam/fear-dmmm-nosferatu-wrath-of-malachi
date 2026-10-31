@@ -59,6 +59,8 @@ The LithTech Jupiter EX, the engine Monolith Productions used for F.E.A.R. (2005
 
 [https://www.moddb.com/games/fear/tutorials](https://www.moddb.com/games/fear/tutorials)
 
+[![LithTech JupiterFX](https://raw.githubusercontent.com/igiteam/fear-dmmm-nosferatu-wrath-of-malachi/refs/heads/main/littech-jupiter.gif)](https://raw.githubusercontent.com/igiteam/fear-dmmm-nosferatu-wrath-of-malachi/refs/heads/main/littech-jupiter.gif)
+
 [![F.E.A.R.](https://raw.githubusercontent.com/igiteam/fear-dmmm-nosferatu-wrath-of-malachi/refs/heads/main/FEAR.png)](https://archive.org/details/fear-pc)
 
 ## Dmmm Source SDK
@@ -96,7 +98,6 @@ The LithTech Jupiter EX, the engine Monolith Productions used for F.E.A.R. (2005
 [https://discord.gg/RXKpr3Wwdd](https://discord.gg/RXKpr3Wwdd)
 
 [Dmmm Hammer++ Tutorials](https://www.youtube.com/playlist?list=PLb8oNKiUbnjFtaXhabLk389XzQkUjxgaB)
-
 
 [![Dark Messiah of Might and Magic](https://raw.githubusercontent.com/igiteam/fear-dmmm-nosferatu-wrath-of-malachi/refs/heads/main/dark-messiah-sword-fight.png)](https://raw.githubusercontent.com/igiteam/fear-dmmm-nosferatu-wrath-of-malachi/refs/heads/main/dark-messiah-sword-fight.png)
 
