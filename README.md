@@ -25,8 +25,6 @@ The LithTech Jupiter EX, the engine Monolith Productions used for F.E.A.R. (2005
 ## F.E.A.R SDK
 [https://archive.org/details/fear-pc](https://archive.org/details/fear-pc)
 
-[LithTech-Jupiter-FX Tutorials](https://www.youtube.com/playlist?list=PLb8oNKiUbnjFO0_sNfW4A80k9UWjBhVRo)
-
 [https://github.com/jsj2008/lithtech](https://github.com/jsj2008/lithtech)
 
 [https://www.moddb.com/games/fear/downloads/fear-public-tools-v2](https://www.moddb.com/games/fear/downloads/fear-public-tools-v2)
@@ -36,8 +34,6 @@ The LithTech Jupiter EX, the engine Monolith Productions used for F.E.A.R. (2005
 [https://archive.org/download/fear-source-code](https://archive.org/download/fear-source-code)
 
 [https://www.moddb.com/mods/fear-coop](https://www.moddb.com/mods/fear-coop)
-
-[Benox50 F.E.A.R Tutorials](https://www.youtube.com/playlist?list=PLE_yJhRzcviuuQvv5pzDxoJCdk83uq5Bd)
 
 [https://github.com/Wemino/EchoPatch/](https://github.com/Wemino/EchoPatch/)
 
@@ -58,6 +54,10 @@ The LithTech Jupiter EX, the engine Monolith Productions used for F.E.A.R. (2005
 [https://www.moddb.com/games/fear/downloads/helicopter-start-level](https://www.moddb.com/games/fear/downloads/helicopter-start-level)
 
 [https://www.moddb.com/games/fear/tutorials](https://www.moddb.com/games/fear/tutorials)
+
+[LithTech-Jupiter-FX Tutorials](https://www.youtube.com/playlist?list=PLb8oNKiUbnjFO0_sNfW4A80k9UWjBhVRo)
+
+[Benox50 F.E.A.R Tutorials](https://www.youtube.com/playlist?list=PLE_yJhRzcviuuQvv5pzDxoJCdk83uq5Bd)
 
 [![LithTech JupiterFX](https://raw.githubusercontent.com/igiteam/fear-dmmm-nosferatu-wrath-of-malachi/refs/heads/main/littech-jupiter.gif)](https://raw.githubusercontent.com/igiteam/fear-dmmm-nosferatu-wrath-of-malachi/refs/heads/main/littech-jupiter.gif)
 
