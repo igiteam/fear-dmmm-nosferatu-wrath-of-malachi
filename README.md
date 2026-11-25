@@ -14,8 +14,20 @@ The LithTech Jupiter EX, the engine Monolith Productions used for F.E.A.R. (2005
 ## Github Tree Api Direct JSON
 [https://api.github.com/repos/igiteam/fear-dmmm-nosferatu-wrath-of-malachi/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/fear-dmmm-nosferatu-wrath-of-malachi/git/trees/main?recursive=1)
 
-## Wiimote+Nunchuk, MX Mouse Keys, Xbox360 Controller
-[https://github.com/igiteam/logitec_mx_mouse_3_macos](https://github.com/igiteam/logitec_mx_mouse_3_macos)
+## Gameplay
+[![Daemon Summoner](https://img.youtube.com/vi/6MBCeMqRqVI/hqdefault.jpg)](https://ytembed.macosxjs.com/?Nk1CQ2VNcVJxVkk)
+
+[![Nosferatu: The Wrath of Malachi ](https://i.ytimg.com/vi/GAdRmSaoox0/hqdefault.jpg)](https://ytembed.macosxjs.com/?ZkYwbWpZM0dzdXM)
+
+[![Daemon Summoner PS2 Gameplay HD (PCSX2 v1.7.0)](https://img.youtube.com/vi/0A3-1YVYUxA/maxresdefault.jpg)](https://ytembed.macosxjs.com/?MEEzLTFZVllVeEE)
+
+![https://i.ytimg.com/vi/OfKBc0s9oXU/maxresdefault.jpg](https://i.ytimg.com/vi/OfKBc0s9oXU/maxresdefault.jpg)
+
+![https://i.ytimg.com/vi/NtXUGpA_JDc/maxresdefault.jpg](https://i.ytimg.com/vi/NtXUGpA_JDc/maxresdefault.jpg)
+
+![https://i.ytimg.com/vi/ApTqONpj7Fc/sddefault.jpg](https://i.ytimg.com/vi/ApTqONpj7Fc/sddefault.jpg)
+
+[![Nosferatu The Wrath of Malachi INTRO](https://img.youtube.com/vi/Ko3FW4MbAic/hqdefault.jpg)](https://ytembed.macosxjs.com/?S28zRlc0TWJBaWM)
 
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
@@ -118,6 +130,11 @@ The LithTech Jupiter EX, the engine Monolith Productions used for F.E.A.R. (2005
 
 [![Nosferatu Wrath Of Malachi](https://raw.githubusercontent.com/igiteam/fear-dmmm-nosferatu-wrath-of-malachi/refs/heads/main/NosferatuTheWrathOfMalachi.png)](https://archive.org/details/nosferatu-the-wrath-of-malachi)
 
+
+## Wiimote+Nunchuk, MX Mouse Keys, Xbox360 Controller
+[https://github.com/igiteam/logitec_mx_mouse_3_macos](https://github.com/igiteam/logitec_mx_mouse_3_macos)
+
+---
 
 ## Dev Environment
 
