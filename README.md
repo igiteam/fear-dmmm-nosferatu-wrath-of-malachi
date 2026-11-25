@@ -15,7 +15,7 @@ The LithTech Jupiter EX, the engine Monolith Productions used for F.E.A.R. (2005
 [https://api.github.com/repos/igiteam/fear-dmmm-nosferatu-wrath-of-malachi/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/fear-dmmm-nosferatu-wrath-of-malachi/git/trees/main?recursive=1)
 
 ## Gameplay
-[![Daemon Summoner](https://img.youtube.com/vi/6MBCeMqRqVI/hqdefault.jpg)](https://ytembed.macosxjs.com/?Nk1CQ2VNcVJxVkk)
+[![Daemon Summoner](https://i.ytimg.com/vi/E_x0UHlTDP8/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Nk1CQ2VNcVJxVkk)
 
 [![Nosferatu: The Wrath of Malachi ](https://i.ytimg.com/vi/GAdRmSaoox0/hqdefault.jpg)](https://ytembed.macosxjs.com/?ZkYwbWpZM0dzdXM)
 
